@@ -1,0 +1,55 @@
+body {
+	font-family: 'Rubik', sans-serif;
+}
+.main_footer {
+    background: #0c0100;
+    color: rgba(255, 255, 255, 0.19);
+    position: relative;
+    margin-left: 0px;	
+}
+.publication-row.row img.card-img {
+    min-height: 200px;
+    object-fit: cover;
+}
+p.mf {
+    font-size: 12px;
+}
+.book-heading h5 {
+    min-height: 50px;
+}
+.product-col {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.btn-success {
+    --x-btn-color: #FFF;
+    --x-btn-bg: #0dca0d;
+    --x-btn-border-color: #0dca0d;
+    --x-btn-hover-color: #FFF;
+    --x-btn-hover-bg: #000;
+    --x-btn-hover-border-color: #000;
+    --x-btn-focus-shadow-rgb: 38, 212, 154;
+    --x-btn-active-color: #FFF;
+    --x-btn-active-bg: #000;
+    --x-btn-active-border-color: #0dca0d;
+    --x-btn-active-shadow: 0 0 0 0rgba(0, 0, 0, 0);
+    --x-btn-disabled-color: #FFF;
+    --x-btn-disabled-bg: #CCC;
+    --x-btn-disabled-border-color: #CCC;
+}
+.btn-dark {
+    --x-btn-color: #FFF;
+    --x-btn-bg: #0c0100;
+    --x-btn-border-color: #0c0100;
+    --x-btn-hover-color: #FFF;
+    --x-btn-hover-bg: #454756;
+    --x-btn-hover-border-color: #2d3041;
+    --x-btn-focus-shadow-rgb: 57, 60, 76;
+    --x-btn-active-color: #FFF;
+    --x-btn-active-bg: #454756;
+    --x-btn-active-border-color: #2d3041;
+    --x-btn-active-shadow: 0 0 0 0rgba(0, 0, 0, 0);
+    --x-btn-disabled-color: #FFF;
+    --x-btn-disabled-bg: #16192C;
+    --x-btn-disabled-border-color: #16192C;
+}
